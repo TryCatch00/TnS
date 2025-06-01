@@ -1,0 +1,18 @@
+.main-entityHeader-backgroundColor { display: none !important; } .main-actionBarBackground-background { display: none !important; } .main-home-homeHeader { display: none !important; }
+
+.main-trackInfo-artists a:link, .main-trackInfo-artists a:visited, .encore-internal-color-text-subdued, .artist-artistOnTour-timeAndVenue.artist-artistOnTour-condensed {
+    color: #b0afaf !important;
+}
+
+.Button-buttonTertiary-textSubdued-small-useBrowserDefaultFocusStyle-condensed {
+    color: #b0afaf !important;
+}
+
+.yIYdkVZJzDlj1lqOmV1M a {
+    color: #b0afaf !important;
+}
+
+/* Gif icon */
+.main-trackList-playingIcon, .view-homeShortcutsGrid-equaliser {
+  display: none !important;
+}
